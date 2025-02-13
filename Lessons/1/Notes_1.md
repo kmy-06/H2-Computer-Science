@@ -1,4 +1,4 @@
-## Lesson_1 (12 Feb): 
+## Day_1 (12 Feb): 
 
 print(" ")
 
@@ -8,7 +8,7 @@ strings concatenation (joins) - only strings { print(" " + 10): TypeError }
 
 
 
-## Lesson_2 (13 Feb): 
+## Day_2 (13 Feb): 
 
 change ‘age’ -> string: ’18’, to 18 as number using int(age), so that int(age) + 1 is 19 as an integer. 
 
