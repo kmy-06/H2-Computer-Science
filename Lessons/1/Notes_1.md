@@ -1,10 +1,12 @@
 ## Day_1 (12 Feb): Input / Output
 
+IDE: Integrated Development Environment 
+
 print(" ")
 
 x = input(" ")
 
-strings concatenation (joins) - only strings { print(" " + 10): TypeError }
+strings concatenation (joins) - <b> only strings </b> { print(" " + 10): TypeError }
 
 
 
