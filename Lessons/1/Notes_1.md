@@ -35,12 +35,12 @@ Conversion Uses:
 7. Floor Division: x // y -> The floor of a real number x, written as ⌊x⌋, is defined as the greatest integer that is less than or equal to x.
 
 
-"==" equals to (not assignment of value)
-"!=" not equals to # For SQL: "<>"
-">" greater than
-">=" greater than or equal to
-"<" less than
-"<=" less than or equal to
+"==" equals to (not assignment of value) <br>
+"!=" not equals to # For SQL: "<>" <br>
+">" greater than <br>
+">=" greater than or equal to <br>
+"<" less than <br>
+"<=" less than or equal to <br>
 
 print("\n") # New Line :)
 
