@@ -61,11 +61,10 @@ SDLC:
 
 Algorithms:
 
+1. Problem Definition
+2. Problem Analysis
+3. Design Algorithm
 
-
-
-
-
-
+< My God, So Boring ... >
 
 ## Day_5 (): Flowchart Symbols & Pseudocode Keywords
