@@ -46,3 +46,26 @@ Conversion Uses:
 
 print("\n") # New Line :)
 
+## Day_4 (24 Feb): System Development Life Cycle (SDLC) & Algorithms
+
+SDLC:
+
+1. Problem Definition (scope of requirements)
+2. Problem Analysis (breakdown the main problem)
+3. Design Using Flowchart and Pseudocodes (apply abstaction techniques)
+4. Solution Development (translate to code)
+5. Testing (test with data)
+6. Documentation (version control)
+7. Deployment ($$$)
+8. Evaluation & Maintenance (scale up & updates)
+
+Algorithms:
+
+
+
+
+
+
+
+
+## Day_5 (): Flowchart Symbols & Pseudocode Keywords
