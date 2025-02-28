@@ -1,4 +1,4 @@
-## Day_1 (12 Feb): Input / Output
+## Day_1 (12 Feb): (1) Input / Output
 
 IDE: Integrated Development Environment 
 
@@ -10,7 +10,7 @@ strings concatenation (joins) - <b> only strings </b> { print(" " + 10): TypeErr
 
 
 
-## Day_2 (13 Feb): Variables
+## Day_2 (13 Feb): (2) Variables
 
 change ‘age’ -> string: ’18’, to 18 as number using int(age), so that int(age) + 1 is 19 as an integer. 
 
@@ -26,7 +26,7 @@ Conversion Uses:
 7. dict()
 8. set()
 
-## Day_3 (19 Feb): Math, Relational and Logical Operators
+## Day_3 (19 Feb): (3) Math, Relational and Logical Operators
 
 1. Addition: x + y
 2. Subtraction: x - y
@@ -46,7 +46,7 @@ Conversion Uses:
 
 print("\n") # New Line :)
 
-## Day_4 (24 Feb): System Development Life Cycle (SDLC) & Algorithms
+## Day_4 (24 Feb): (Reading) System Development Life Cycle (SDLC) & Algorithms
 
 SDLC:
 
@@ -67,10 +67,52 @@ Algorithms:
 
 < My God, So Boring ... >
 
-## Day_5 (27 Feb): Flowchart Symbols & Pseudocode Keywords
+## Day_5 (27 Feb): (Mind Mapping) Flowchart Symbols & Pseudocode Keywords
 
+Flowchart (Without connector & module):
 
-## Day_6 (28 Feb): Conditions
+1. Start Programme: oval 
+2. Processing Code: rectangle
+3. Required Inputs: parallelogram
+4. Resulting Output: parallelogram
+5. Decision (T/F)(y/n): diamond
+6. End Programme: oval
+
+Pseudocode (Examples):
+
+// Commenting
+
+DECLARE y, topspeed: REAL
+DECLARE x: INTEGER
+constant totalCars = 100
+
+INPUT num
+topspeed <- 200
+y <- 'E'
+x <- y*2 (give value 'y x 2' to 'x' variable)
+
+MATCH num:
+  CASE num OF
+    ...
+      (return "")
+    OTHERWISE: ... (case _:)
+  ENDCASE
+
+WHILE x <= 10 DO: (While 'true' CHECK at the start, program stop until statement is 'false')
+  ... (Cycles)
+ENDWHILE
+
+FOR x <- 1 TO 10 [step 1]: ('x' can be a var_name)(in range (start, end, increment_step))
+  ...
+ENDFOR or [NEXT x]
+
+IF x > y THEN: 
+  ... (or IF or ELSE IF or ELSE)
+ENDIF
+
+OUTPUT result
+
+## Day_6 (28 Feb): (4) Conditions
 
 
 
