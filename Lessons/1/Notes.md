@@ -80,37 +80,37 @@ Flowchart (Without connector & module):
 
 Pseudocode (Examples):
 
-// Commenting
+// Commenting <br>
 
-DECLARE y, topspeed: REAL
-DECLARE x: INTEGER
-constant totalCars = 100
+DECLARE y, topspeed: REAL <br>
+DECLARE x: INTEGER <br>
+constant totalCars = 100 <br>
 
-INPUT num
-topspeed <- 200
-y <- 'E'
-x <- y*2 (give value 'y x 2' to 'x' variable)
+INPUT num <br>
+topspeed <- 200 <br>
+y <- 'E' <br>
+x <- y*2 (give value 'y x 2' to 'x' variable) <br>
 
-MATCH num:
-  CASE num OF
-    ...
-      (return "")
-    OTHERWISE: ... (case _:)
-  ENDCASE
+MATCH num: <br>
+  CASE num OF <br>
+    ... <br>
+      (return "") <br>
+    OTHERWISE: ... (case _:) <br>
+  ENDCASE <br>
 
-WHILE x <= 10 DO: (While 'true' CHECK at the start, program stop until statement is 'false')
-  ... (Cycles)
-ENDWHILE
+WHILE x <= 10 DO: (While 'true' CHECK at the start, program stop until statement is 'false') <br>
+  ... (Cycles) <br>
+ENDWHILE <br>
 
-FOR x <- 1 TO 10 [step 1]: ('x' can be a var_name)(in range (start, end, increment_step))
-  ...
-ENDFOR or [NEXT x]
+FOR x <- 1 TO 10 [step 1]: ('x' can be a var_name)(in range (start, end, increment_step)) <br>
+  ... <br>
+ENDFOR or [NEXT x] <br>
 
-IF x > y THEN: 
-  ... (or IF or ELSE IF or ELSE)
-ENDIF
+IF x > y THEN:  <br>
+  ... (or IF or ELSE IF or ELSE) <br>
+ENDIF <br>
 
-OUTPUT result
+OUTPUT result <br>
 
 ## Day_6 (28 Feb): (4) Conditions
 
