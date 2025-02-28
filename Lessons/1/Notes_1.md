@@ -67,4 +67,12 @@ Algorithms:
 
 < My God, So Boring ... >
 
-## Day_5 (): Flowchart Symbols & Pseudocode Keywords
+## Day_5 (27 Feb): Flowchart Symbols & Pseudocode Keywords
+
+
+## Day_6 (28 Feb): Conditions
+
+
+
+
+
