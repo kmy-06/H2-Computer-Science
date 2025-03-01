@@ -95,7 +95,7 @@ MATCH num: <br>
   CASE num OF <br>
     ... <br>
       (return "") <br>
-    OTHERWISE: ... (case _:) <br>
+    OTHERWISE: ... (case _:) <<< The '_' sign acts as a placeholder for any value. <br>
   ENDCASE <br>
 
 WHILE x <= 10 DO: (While 'true' CHECK at the start, program stop until statement is 'false') <br>
