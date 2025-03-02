@@ -84,7 +84,7 @@ Pseudocode (Examples):
 
 DECLARE y, topspeed: REAL <br>
 DECLARE x: INTEGER <br>
-constant totalCars = 100 <br>
+CONSTANT totalCars = 100 <br>
 
 INPUT num <br>
 topspeed <- 200 <br>
@@ -95,11 +95,11 @@ MATCH num: <br>
   CASE num OF <br>
     ... <br>
       (return "") <br>
-    OTHERWISE: ... (case _:) <<< The '_' sign acts as a placeholder for any value. <br>
+    OTHERWISE: ... (case `_`:) <<< The `_` sign acts as a placeholder for any value. <br>
   ENDCASE <br>
 
 WHILE x <= 10 DO: (While 'true' CHECK at the start, program stop until statement is 'false') <br>
-  ... (Cycles) <br>
+  ... (cycles) <br>
 ENDWHILE <br>
 
 FOR x <- 1 TO 10 [step 1]: ('x' can be a var_name)(in range (start, end, increment_step)) <br>
