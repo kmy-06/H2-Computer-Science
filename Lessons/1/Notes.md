@@ -114,7 +114,46 @@ OUTPUT result <br>
 
 ## Day_6 (28 Feb): (4) Conditions
 
+1. `if-else` statement:
 
+```
+x = 3
+if x > 5:
+    print("x is greater than 5")
+else:
+    print("x is not greater than 5")
+```
 
+2. `if-elif-else` chain:
+
+```
+x = 5
+if x > 5:
+    print("x is greater than 5")
+elif x == 5:
+    print("x is equal to 5")
+else:
+    print("x is less than 5")
+```
+
+3. Nested `if` statement:
+
+```
+x = 10
+if x > 5:
+    print("x is greater than 5")
+    if x > 8:
+        print("x is also greater than 8")
+```
+
+4. Ternary Conditional Operator (One liner `if` statement):
+
+```
+x = 7
+result = "x is even" if x % 2 == 0 else "x is odd"
+print(result)
+```
+
+## Day_7 (3 Mar): (5) 
 
 
