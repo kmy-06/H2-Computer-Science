@@ -154,6 +154,8 @@ result = "x is even" if x % 2 == 0 else "x is odd"
 print(result)
 ```
 
-## Day_7 (3 Mar): (5) 
+## Day_7 (3 Mar): (5) Loops
+
+
 
 
