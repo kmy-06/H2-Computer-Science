@@ -10,7 +10,7 @@ strings concatenation (joins) - <b> only strings </b> { print(" " + 10): TypeErr
 
 
 
-## Day_2 (13 Feb): (2) Variables
+## Day_2 (13 Feb): (2) Variables | Data Types
 
 change ‘age’ -> string: ’18’, to 18 as number using int(age), so that int(age) + 1 is 19 as an integer. 
 
@@ -158,4 +158,14 @@ print(result)
 
 
 
+## Day_8 (6 Mar): (7) Collection Data Types
 
+List:
+.append(value in list <- at the back)
+listname[start:end] = [replace with...]
+newlist = list1 + list2
+.remove(value in list)
+.pop(position) {default - remove last item}
+newlist = [4, 5, 6] * 3: To repeat a list, use "*" operator. 
+
+if x is a list, y = x, will make y pointing to the exact same list in memory as x. Thus, the change in list y is equal to the change in list x.
