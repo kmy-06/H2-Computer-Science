@@ -10,7 +10,7 @@ strings concatenation (joins) - <b> only strings </b> { print(" " + 10): TypeErr
 
 
 
-## Day_2 (13 Feb): (2) Variables | Data Types
+## Day_2 (13 Feb): (2) Variables | Primitive Data Types
 
 change ‘age’ -> string: ’18’, to 18 as number using int(age), so that int(age) + 1 is 19 as an integer. 
 
@@ -156,16 +156,59 @@ print(result)
 
 ## Day_7 (3 Mar): (5) Loops
 
+1. while loop
+
+2. repeat-until: must satisfy at least one condition
+
+3. for loop
+
+4. nested for loop
+
+5. nested while loop
+
+6. loop control statement: break, continue, pass
 
 
-## Day_8 (6 Mar): (7) Collection Data Types
+## Day_8 (6 Mar): Collection Data Types
 
-List:
+Properties:
+
+- Ordered/Unordered
+
+whether items in the Collection Data Type have a defined order
+
+- Changeable/Unchangeable
+
+whether we can change, add, and remove items in the
+Collection Data Type after it has been created.
+
+- Allow Duplicates/Duplicates not allowed
+
+whether it is possible to have items with the same value in the
+Collection Data Type
+
+Mainly Four:
+
+1. List <br>
+
+2. Dictionary <br>
+
+3. Tuple <br>
+
+4. Sets <br>
+
+## Day_9 (7 Mar): (6) Lists
+
 .append(value in list <- at the back)
+
 listname[start:end] = [replace with...]
+
 newlist = list1 + list2
+
 .remove(value in list)
+
 .pop(position) {default - remove last item}
-newlist = [4, 5, 6] * 3: To repeat a list, use "*" operator. 
+
+newlist = [4, 5, 6] * 3: To repeat a list, use "*" operator. f
 
 if x is a list, y = x, will make y pointing to the exact same list in memory as x. Thus, the change in list y is equal to the change in list x.
