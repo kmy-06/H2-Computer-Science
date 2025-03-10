@@ -212,3 +212,22 @@ newlist = list1 + list2
 newlist = [4, 5, 6] * 3: To repeat a list, use "*" operator. f
 
 if x is a list, y = x, will make y pointing to the exact same list in memory as x. Thus, the change in list y is equal to the change in list x.
+
+## Day_10 (10 Mar): Arrays and File Processing
+
+Note: 'Subscript' in an array refers to the 'index' of an element. It is usually enclosed with [ ].
+
+One-Dimensional (1D) Array: DECLARE `<`identifier`>`: ARRAY [<L>:<U>] OF `<`data type`>`
+
+- e.g DECLARE StudentAges: ARRAY [1:10] OF INTEGER
+
+Two-Dimensional (2D) Array: DECLARE `<`identifier`>`: ARRAY [<L1>:<U1>,<L2>:<U2>] OF `<`data type`>`
+
+- e.g DECLARE Attendance: ARRAY [1:5,1:4] OF CHAR  <- means [row,column]
+
+So, maybe we can look into Numpy 3D array in the future.
+
+And, of course, c++ can manage memory more efficiently.
+
+
+
