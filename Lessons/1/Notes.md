@@ -229,5 +229,8 @@ So, maybe we can look into Numpy 3D array in the future.
 
 And, of course, c++ can manage memory more efficiently.
 
+## Day_11 (13 Mar): (7) 2D List & Dictionary
+
+
 
 
