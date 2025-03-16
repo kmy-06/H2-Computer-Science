@@ -1,3 +1,3 @@
-<s>README</s> 
+⭐ <s>README</s> 
 
 $$\text{READ YOURSELF}$$
