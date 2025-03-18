@@ -1,1 +1,3 @@
 hmm...
+
+"I just want to say: Please use 'Colab Extension' in Google Chrome when using Google Colab 🤍."
