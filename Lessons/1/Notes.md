@@ -229,7 +229,20 @@ So, maybe we can look into Numpy 3D array in the future.
 
 And, of course, c++ can manage memory more efficiently.
 
-## Day_11 (13 Mar): (7) 2D List & Dictionary
+## Day_11 (13 Mar): (7) 2D Array & Dictionary
+
+2D array can be seen as a table with rows and columns.
+
+Dictionary = {} <- Flexible tools, uses mappings.
+
+'Mapping' denotes (意味着) an object that maps key to associated values. (only for dictionary)
+
+Mappings do not maintain any left-to-right positional ordering, only supports access to data stored by key and type-specific method calls.
+
+## Day_12 (24 Mar): (8) Files ?
+
+:>
+
 
 
 
