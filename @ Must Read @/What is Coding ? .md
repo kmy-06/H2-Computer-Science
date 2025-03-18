@@ -1,3 +1,3 @@
 hmm...
 
-> "I just want to say: Please use 'Colab Themes' extension in Google Chrome when using Google Colab 🤍."
+> "I just want to say: Please use 'Colab Themes' extension in Google Chrome when using Google Colab 👀."
