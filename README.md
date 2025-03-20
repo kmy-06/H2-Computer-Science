@@ -1,4 +1,7 @@
 $$2025$$
 
-> Foundation building in Python, 
+> Description: Foundation building in Python, 
 
+<br>
+
+> Vision: A
