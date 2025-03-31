@@ -241,11 +241,37 @@ Mappings do not maintain any left-to-right positional ordering, only supports ac
 
 ## Day_12 (24 Mar): (8) Files Processing
 
-## Day_13 (27 Mar): (9) Jupyter Notebook
+- Read file:
 
-## Day_14 (28 Mar): (10) Tuples
+f = open('data.txt','r')
 
-## Day_15 (31 Mar): (11) ?
+for line in f:
+
+- Write file:
+
+f = open('data.txt', 'w')
+
+f.write('...')
+
+## Day_13 (27 Mar): Jupyter Notebook
+
+Terminal Commands:
+
+H: (open h: drive for personal storage)
+
+jupyter notebook (opens up jupyter notebook)
+
+cd ...
+
+mkdir ...
+
+ls -A
+
+## Day_14 (28 Mar): (9) Tuples
+
+
+
+## Day_15 (31 Mar): (10) ?
 
 
 
