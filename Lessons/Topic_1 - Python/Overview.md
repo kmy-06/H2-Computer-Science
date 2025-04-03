@@ -269,14 +269,12 @@ ls -A
 
 ## Day_14 (28 Mar): (9) Tuples
 
-not a list, tuples are more foundamental and definational
+not a list, tuples are more foundamental and definitional
 
 ## Day_15 (3 Mar): (10) Strings
 
 immutable, so we have to change it to list, then join back to string
 
 there are many formating, modifying, subsituting, printing, embedding methods
-
-very useful
 
 ## Day_16 (4 Mar): (11) Dicision Table
