@@ -271,10 +271,16 @@ ls -A
 
 not a list, tuples are more foundamental and definitional
 
-## Day_15 (3 Mar): (10) Strings
+## Day_15 (3 Apr): (10) Strings
 
 immutable, so we have to change it to list, then join back to string
 
 there are many formating, modifying, subsituting, printing, embedding methods
 
-## Day_16 (4 Mar): (11) Dicision Table
+## Day_16 (4 Apr): (7) + More Dictionary
+
+## Day_17 (7 Apr): Dicision Table
+
+## Day_18 (10 Apr): Dicision Table
+
+## Day_19 (11 Apr): (11) Functions
