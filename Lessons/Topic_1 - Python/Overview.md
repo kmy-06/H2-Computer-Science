@@ -1,5 +1,3 @@
-> "What rubbish is this?" - Student X commenting on H2 Computing Notes
-
 
 ## Day_1 (12 Feb): (1) Input / Output
 
